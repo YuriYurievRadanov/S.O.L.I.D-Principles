@@ -1,0 +1,7 @@
+D:\InterviewS\PREPARING\S.O.L.I.D\S.O.L.I.D\bin\Debug\S.O.L.I.D.exe.config
+D:\InterviewS\PREPARING\S.O.L.I.D\S.O.L.I.D\bin\Debug\S.O.L.I.D.exe
+D:\InterviewS\PREPARING\S.O.L.I.D\S.O.L.I.D\bin\Debug\S.O.L.I.D.pdb
+D:\InterviewS\PREPARING\S.O.L.I.D\S.O.L.I.D\obj\Debug\S.O.L.I.D.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\S.O.L.I.D\S.O.L.I.D\obj\Debug\S.O.L.I.D.csproj.CoreCompileInputs.cache
+D:\InterviewS\PREPARING\S.O.L.I.D\S.O.L.I.D\obj\Debug\S.O.L.I.D.exe
+D:\InterviewS\PREPARING\S.O.L.I.D\S.O.L.I.D\obj\Debug\S.O.L.I.D.pdb
